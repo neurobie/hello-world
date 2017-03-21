@@ -1,2 +1,5 @@
 # hello-world
-Initiating sequence...
+
+Suddenly!
+
+Here we are on our way to somehow.

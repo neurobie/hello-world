@@ -2,4 +2,4 @@
 
 Suddenly!
 
-Here we are on our way to somehow.
+Here we are on our way to something.
